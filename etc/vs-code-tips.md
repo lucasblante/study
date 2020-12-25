@@ -2,14 +2,14 @@
 
 `Ctrl + D` -> Add Selection
 
-`Alt + D` -> Seleciona Multiplas linhas
+`Alt + D` -> Multi-line selection
 
-`Alt + Up` / Down -> Move Linha
+`Alt + Up / Down` -> Move line up and down
 
-`Ctrl + /` -> Comentario
+`Ctrl + /` -> Coment
 
 `Shif + D` -> Copy LIne Down
 
-`Ctrl + X` -> Recorta lnha pra clipboard
+`Ctrl + X` -> Cut line to clipboard
 
 `Ctrl + '` -> Toggle Terminal
