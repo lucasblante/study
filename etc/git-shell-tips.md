@@ -3,8 +3,11 @@
 // Funcionalidades git
 
 `git init` // inicia linha do tempo (cria o arquivo .git)
+
    para desfazer o git init, basta apagar o arquivo .git na raiz
+   
 `git add` // adiciona ou atualiza mudanças para irem para a linha do tempo
+
   `git add .` /// Adiciona todos os arquivos
 `git status` // informa o estado das alterações do projto
 `git commit` // adiciona um ponto na linha do tempo
