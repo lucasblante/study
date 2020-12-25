@@ -6,7 +6,7 @@
 
 `Alt + Up` / Down -> Move Linha
 
-`Ctrl +` / -> Comentario
+`Ctrl + /` -> Comentario
 
 `Shif + D` -> Copy LIne Down
 
