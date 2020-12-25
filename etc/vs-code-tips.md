@@ -1,7 +1,15 @@
-Ctrl + D -> Add Selection
-Alt + D -> Seleciona Multiplas linhas
-Alt + Up / Down -> Move Linha
-Ctrl + / -> Comentario
-Shif + D -> Copy LIne Down
-Ctrl + X -> Recorta lnha pra clipboard
-Crel + ' -> Toggle Terminal
+### VISUAL CODE TIPS ###
+
+`Ctrl + D` -> Add Selection
+
+`Alt + D` -> Multi-line selection
+
+`Alt + Up / Down` -> Move line up and down
+
+`Ctrl + /` -> Coment
+
+`Shif + D` -> Copy LIne Down
+
+`Ctrl + X` -> Cut line to clipboard
+
+`Ctrl + '` -> Toggle Terminal
