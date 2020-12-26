@@ -127,17 +127,6 @@ body {
      box-shadow: 0 4px 4px rgba(0,0,0,0.1); 
 }
 
-.content__offer {
-     margin-top: -30px;
-     font-size: 13px;
-     padding: 6px 12px;
-}
-
-.content__offer a {
-     text-decoration: none;
-     color: #4285f4;
-}
-
 .content__buttons {
      margin-top: 18px;
      visibility: hidden;
@@ -157,6 +146,17 @@ body {
      border: 0;
      padding: 10px 18px;
      border-radius: 5px;
+}
+
+.content__offer {
+     margin-top: -30px;
+     font-size: 13px;
+     padding: 6px 12px;
+}
+
+.content__offer a {
+     text-decoration: none;
+     color: #4285f4;
 }
 
 /* FOOTER */
@@ -198,6 +198,30 @@ body {
 /* RESPOSIVIDADE */
 
 @media (min-width: 750px) {
+     .menu__section.left {
+          visibility: hidden;
+     }
+
+     .menu__section.right {
+          margin-right: 20px;
+     }
+
+     .menu__rightLink {
+          visibility: visible;
+     }
+
+     .content {
+          padding-top: 90px;;
+     }
+
+     .content__buttons {
+          visibility: visible;
+     }
+
+     .content__offer {
+          margin-top: 25px;
+     }
+
      .footer__section{
           display: flex;
           flex-direction: row;
@@ -211,29 +235,5 @@ body {
 
      .footer__links.right {
           text-align: right;
-     }
-
-     .menu__section.left {
-          visibility: hidden;
-     }
-
-     .menu__rightLink {
-          visibility: visible;
-     }
-
-     .menu__section.right {
-          margin-right: 20px;
-     }
-
-     .content {
-          padding-top: 90px;;
-     }
-
-     .content__buttons {
-          visibility: visible;
-     }
-
-     .content__offer {
-          margin-top: 25px;
      }
 }
